@@ -1,0 +1,14 @@
+#box{
+    padding: 5%;
+    width: 50%;
+    height: 70%;
+    -webkit-box-shadow: 10px 10px 68px 26px rgba(65,76,171,0.52);
+    -moz-box-shadow: 10px 10px 68px 26px rgba(65,76,171,0.52), inset 0px 0px 233px 10px rgba(0,0,0,1);
+    box-shadow: 10px 10px 68px 26px rgba(65,76,171,0.52), inset 0px 0px 233px 10px rgba(0,0,0,1);
+    border-radius: 200px 10px 200px 10px;
+    -moz-border-radius: 200px 10px 200px 10px;
+    -webkit-border-radius: 200px 10px 200px 10px;
+    border: 1px solid #000000;
+    background-color: #53fc89;
+    color: antiquewhite;
+}
