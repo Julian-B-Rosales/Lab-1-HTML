@@ -1,0 +1,40 @@
+
+.Titulo{
+    font-size: 300%;
+    color: red;
+}
+
+.Titulo2{
+    color: blue;
+    background-color: whitesmoke;
+    border: 8px solid red;
+    padding: 4%;
+}
+
+#inicioTexto{
+    font-size: 150%;
+}
+
+#BackArtico {
+    background-color: gold;
+}
+
+.Text1{
+    color: darkcyan;
+}
+.Str1{
+    color: blue;
+}
+
+#Recuadro{
+    border: 2px solid red;
+    padding: 4%;
+}
+
+.Text2{
+    color: green;
+}
+
+#subrayado{
+    text-decoration: underline;
+}
